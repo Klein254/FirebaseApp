@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73849077711",
+    "project_id": "fir-application-obiero-82366",
+    "storage_bucket": "fir-application-obiero-82366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73849077711:android:a7091f12bf68937919dcba",
+        "android_client_info": {
+          "package_name": "com.example.firebase_application_obiero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73849077711-1reh5gd115023v7v2frletfbmjmkn6ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh5rvj3j86lWzWJF-0nJ7gVdsmfe4uSH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73849077711-1reh5gd115023v7v2frletfbmjmkn6ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
